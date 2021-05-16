@@ -1,4 +1,4 @@
-# DIAMONDS (:diamond:)
+# DIAMONDS (:diamond)
 
 
 
