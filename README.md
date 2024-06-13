@@ -1,4 +1,3 @@
-# DIAMONDS (:gem: :ring:)
 # Diamonds Analysis Project 💎💍
 
 ## Modern and Radical Approach
